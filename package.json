@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-hratky",
+  "version": "1.0.0",
+  "description": "prvni verze",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkrcek/nodejs.git"
+  },
+  "author": "martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkrcek/nodejs/issues"
+  },
+  "homepage": "https://github.com/mkrcek/nodejs#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
